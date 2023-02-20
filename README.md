@@ -21,13 +21,12 @@ Seorang pemilik Supermarket besar merencanakan untuk perbaikan proses bisnis den
 # Function dan Atribut
 - ```Self.items``` : Atribut yang berupa dictionary yang berfungsi untuk menyimpan data transaksi yang dilakukan oleh customer
 - ```add_item``` : Method yang berfungsi untuk menambahkan list produk yang telah dimasukkan oleh customer yang berisi nama item, jumlah item, dan harga item
-- ```update_name``` : Method yang berguna untuk mengubah nama item yang ingin diganti
-- ```update_qty``` : Method yang berguna untuk mengubah jumlah item yang di-order
-- ```update_price``` : Method yang berfungsi untuk mengubah harga item yang dibeli
+- ```update_item_name``` : Method yang berguna untuk mengubah nama item yang ingin diganti
+- ```update_item_qty``` : Method yang berguna untuk mengubah jumlah item yang di-order
+- ```update_item_price``` : Method yang berfungsi untuk mengubah harga item yang dibeli
 - ```remove_item``` : Method yang digunakan untuk menghapus item tertentu
 - ```reset_transaction``` : Method yang digunakan untuk menghapus seluruh data transaksi
 - ```check_order``` : Method yang berfungsi untuk menampilkan seluruh data transaksi yang telah dibuat
-- ```total_harga``` : Method untuk menghitung total harga/item
 - ```total_price``` : Method yang digunakan untuk menampilkan total harga seluruh produk
 - ```Main_menu``` : Method menampilkan menu utama aplikasi kasir. Pada menu tersebut terdapat 9 pilihan seperti tambah pesanan, periksa pesanan, update nama pesanan dan sebagainya. Saat user memasukkan pilihannya, program akan mengeksekusi perintah sesuai dengan pilihan yang dipilih. 
 
