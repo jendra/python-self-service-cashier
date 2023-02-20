@@ -28,7 +28,7 @@ Seorang pemilik Supermarket besar merencanakan untuk perbaikan proses bisnis den
 - ```reset_transaction``` : Method yang digunakan untuk menghapus seluruh data transaksi.
 - ```check_order``` : Method yang berfungsi untuk menampilkan seluruh data transaksi yang telah dibuat.
 - ```total_price``` : Method yang digunakan untuk menampilkan total harga seluruh produk.
-- ```Main_menu``` : Method menampilkan menu utama aplikasi kasir. 
+- ```menu``` : Method menampilkan menu utama aplikasi kasir. 
 
 # Test Case
 * Test 1:
