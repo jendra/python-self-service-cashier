@@ -16,7 +16,7 @@ Seorang pemilik Supermarket besar merencanakan untuk perbaikan proses bisnis den
     - Jika total belanja di atas Rp 500.000 maka akan mendapatkan diskon 10%
    
 # Flowcart
-![Logo](https://github.com/jendra/python-self-service-cashier/main/pictures/flowchart.png)
+![Logo](https://github.com/jendra/python-self-service-cashier/blob/main/pictures/flowchart.png)
 
 # Function dan Atribut
 - ```Self.items``` : Atribut yang berupa dictionary yang berfungsi untuk menyimpan data transaksi yang dilakukan oleh customer
@@ -39,25 +39,25 @@ Customer ingin menambahkan item baru menggunakan method ```add_item()``` dan mem
     - Nama item Ayam Goreng, Qty: 2, Harga: 20000
     - Nama item Pasta Gigi. Qty: 3, Harga:15000
 
-![Link](https://github.com/jendra/python-self-service-cashier/main/pictures/add-item.jpg)
+![Link](https://github.com/jendra/python-self-service-cashier/blob/main/pictures/add-item.jpg)
 
 - Test 2:
 
 Ternyata customer salah membeli salah satu item dari belanjaannya, maka customer menggunakan method ```remove_item()```. Item yang ingin dihapus adalah Pasta Gigi.
 
-![Link](https://github.com/jendra/python-self-service-cashier/main/pictures/remove-item.jpg)
+![Link](https://github.com/jendra/python-self-service-cashier/blob/main/pictures/remove-item.jpg)
 
 - Test 3:
 
 Setelah dipikir kembali customer salah memasukan semua item yang dibelanjakannya. Daripada menghapus satu-satu, maka customer cukup menggunakan method ```reset_transction()```.
 
-![Link](https://github.com/jendra/python-self-service-cashier/main/pictures/reset-transaction.jpg)
+![Link](https://github.com/jendra/python-self-service-cashier/blob/main/pictures/reset-transaction.jpg)
 
 - Test 4:
 
 Setelah customer selesai belanja, maka akan menghitung total belanja yang harus dibayar menggunakan method ```total_price()```. Sebelum mengeluarkan total belanja yang dibayar, akan menampilkan semua item yang dibeli. 
 
-![Link](https://github.com/jendra/python-self-service-cashier/main/pictures/total-price.jpg)
+![Link](https://github.com/jendra/python-self-service-cashier/blob/main/pictures/total-price.jpg)
 
 # Saran Perbaikan
 Kita harus melakukan uji coba kepada customer sebagai user pertama yang memakai aplikasi cashier self-service ini. Kemudian membuat kuisoner untuk kritik dan saran untuk membuat cashier aplikasi ini menjadi lebih baik. Lalu diimplemntasi sehingga lebih memudahkan customer dalam bertransaksi.
