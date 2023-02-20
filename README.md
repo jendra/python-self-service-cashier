@@ -59,4 +59,6 @@ Setelah customer selesai belanja, maka akan menghitung total belanja yang harus 
 ![Link](https://github.com/jendra/archive-docs/blob/main/pictures/total-price.jpg)
 
 # Saran Perbaikan
-Kita harus melakukan uji coba kepada customer sebagai user pertama yang memakai aplikasi cashier self-service ini. Kemudian membuat kuisoner untuk kritik dan saran untuk membuat cashier aplikasi ini menjadi lebih baik. Lalu diimplemntasi sehingga lebih memudahkan customer dalam bertransaksi.
+Diperlukan pengetesan uji coba secara langsing terhadap aplikasi cashier self-service ini. 
+Kemudian membuat survei terhadap pengguna, atau pembeli yang memakai. 
+Aplikasi dapat di-integrasikan dengan Barcode Scanner atau piranti IoT lainnya.
